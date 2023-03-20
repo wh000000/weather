@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "editor.defaultFormatter": "Dart-Code.flutter",
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code"
+    },
+    "dart.lineLength": 60
+}
